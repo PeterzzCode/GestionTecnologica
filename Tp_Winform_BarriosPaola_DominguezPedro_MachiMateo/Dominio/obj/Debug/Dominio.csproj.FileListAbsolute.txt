@@ -1,0 +1,42 @@
+E:\UTN\Programacioniii2023\ProgramacionIII\Tp_Winform_BarriosPaola_DominguezPedro_MachiMateo\Dominio\bin\Debug\Dominio.dll
+E:\UTN\Programacioniii2023\ProgramacionIII\Tp_Winform_BarriosPaola_DominguezPedro_MachiMateo\Dominio\bin\Debug\Dominio.pdb
+E:\UTN\Programacioniii2023\ProgramacionIII\Tp_Winform_BarriosPaola_DominguezPedro_MachiMateo\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+E:\UTN\Programacioniii2023\ProgramacionIII\Tp_Winform_BarriosPaola_DominguezPedro_MachiMateo\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+E:\UTN\Programacioniii2023\ProgramacionIII\Tp_Winform_BarriosPaola_DominguezPedro_MachiMateo\Dominio\obj\Debug\Dominio.dll
+E:\UTN\Programacioniii2023\ProgramacionIII\Tp_Winform_BarriosPaola_DominguezPedro_MachiMateo\Dominio\obj\Debug\Dominio.pdb
+C:\Users\Peterzz\Documents\GitHub\ProgramacionIII\Tp_Winform_BarriosPaola_DominguezPedro_MachiMateo\Dominio\bin\Debug\Dominio.dll
+C:\Users\Peterzz\Documents\GitHub\ProgramacionIII\Tp_Winform_BarriosPaola_DominguezPedro_MachiMateo\Dominio\bin\Debug\Dominio.pdb
+C:\Users\Peterzz\Documents\GitHub\ProgramacionIII\Tp_Winform_BarriosPaola_DominguezPedro_MachiMateo\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\Peterzz\Documents\GitHub\ProgramacionIII\Tp_Winform_BarriosPaola_DominguezPedro_MachiMateo\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Peterzz\Documents\GitHub\ProgramacionIII\Tp_Winform_BarriosPaola_DominguezPedro_MachiMateo\Dominio\obj\Debug\Dominio.dll
+C:\Users\Peterzz\Documents\GitHub\ProgramacionIII\Tp_Winform_BarriosPaola_DominguezPedro_MachiMateo\Dominio\obj\Debug\Dominio.pdb
+E:\UTN\nueva copiada\ProgramacionIII\Tp_Winform_BarriosPaola_DominguezPedro_MachiMateo\Dominio\bin\Debug\Dominio.dll
+E:\UTN\nueva copiada\ProgramacionIII\Tp_Winform_BarriosPaola_DominguezPedro_MachiMateo\Dominio\bin\Debug\Dominio.pdb
+E:\UTN\nueva copiada\ProgramacionIII\Tp_Winform_BarriosPaola_DominguezPedro_MachiMateo\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+E:\UTN\nueva copiada\ProgramacionIII\Tp_Winform_BarriosPaola_DominguezPedro_MachiMateo\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+E:\UTN\nueva copiada\ProgramacionIII\Tp_Winform_BarriosPaola_DominguezPedro_MachiMateo\Dominio\obj\Debug\Dominio.dll
+E:\UTN\nueva copiada\ProgramacionIII\Tp_Winform_BarriosPaola_DominguezPedro_MachiMateo\Dominio\obj\Debug\Dominio.pdb
+E:\UTN\PROYECTO DIA 5DEL52023\ProgramacionIII\Tp_Winform_BarriosPaola_DominguezPedro_MachiMateo\Dominio\bin\Debug\Dominio.dll
+E:\UTN\PROYECTO DIA 5DEL52023\ProgramacionIII\Tp_Winform_BarriosPaola_DominguezPedro_MachiMateo\Dominio\bin\Debug\Dominio.pdb
+E:\UTN\PROYECTO DIA 5DEL52023\ProgramacionIII\Tp_Winform_BarriosPaola_DominguezPedro_MachiMateo\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+E:\UTN\PROYECTO DIA 5DEL52023\ProgramacionIII\Tp_Winform_BarriosPaola_DominguezPedro_MachiMateo\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+E:\UTN\PROYECTO DIA 5DEL52023\ProgramacionIII\Tp_Winform_BarriosPaola_DominguezPedro_MachiMateo\Dominio\obj\Debug\Dominio.dll
+E:\UTN\PROYECTO DIA 5DEL52023\ProgramacionIII\Tp_Winform_BarriosPaola_DominguezPedro_MachiMateo\Dominio\obj\Debug\Dominio.pdb
+C:\Users\MATEO\Desktop\Repositorio-GitHub-Prog3\ProgramacionIII\Tp_Winform_BarriosPaola_DominguezPedro_MachiMateo\Dominio\bin\Debug\Dominio.dll
+C:\Users\MATEO\Desktop\Repositorio-GitHub-Prog3\ProgramacionIII\Tp_Winform_BarriosPaola_DominguezPedro_MachiMateo\Dominio\bin\Debug\Dominio.pdb
+C:\Users\MATEO\Desktop\Repositorio-GitHub-Prog3\ProgramacionIII\Tp_Winform_BarriosPaola_DominguezPedro_MachiMateo\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\MATEO\Desktop\Repositorio-GitHub-Prog3\ProgramacionIII\Tp_Winform_BarriosPaola_DominguezPedro_MachiMateo\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\MATEO\Desktop\Repositorio-GitHub-Prog3\ProgramacionIII\Tp_Winform_BarriosPaola_DominguezPedro_MachiMateo\Dominio\obj\Debug\Dominio.dll
+C:\Users\MATEO\Desktop\Repositorio-GitHub-Prog3\ProgramacionIII\Tp_Winform_BarriosPaola_DominguezPedro_MachiMateo\Dominio\obj\Debug\Dominio.pdb
+E:\UTN\7-5-2023 winform tp\ProgramacionIII\Tp_Winform_BarriosPaola_DominguezPedro_MachiMateo\Dominio\bin\Debug\Dominio.dll
+E:\UTN\7-5-2023 winform tp\ProgramacionIII\Tp_Winform_BarriosPaola_DominguezPedro_MachiMateo\Dominio\bin\Debug\Dominio.pdb
+E:\UTN\7-5-2023 winform tp\ProgramacionIII\Tp_Winform_BarriosPaola_DominguezPedro_MachiMateo\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+E:\UTN\7-5-2023 winform tp\ProgramacionIII\Tp_Winform_BarriosPaola_DominguezPedro_MachiMateo\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+E:\UTN\7-5-2023 winform tp\ProgramacionIII\Tp_Winform_BarriosPaola_DominguezPedro_MachiMateo\Dominio\obj\Debug\Dominio.dll
+E:\UTN\7-5-2023 winform tp\ProgramacionIII\Tp_Winform_BarriosPaola_DominguezPedro_MachiMateo\Dominio\obj\Debug\Dominio.pdb
+C:\Users\MATEO\Desktop\Repositorio-GitHub-Prog3\TPWinForm_Equipo16\Tp_Winform_BarriosPaola_DominguezPedro_MachiMateo\Dominio\bin\Debug\Dominio.dll
+C:\Users\MATEO\Desktop\Repositorio-GitHub-Prog3\TPWinForm_Equipo16\Tp_Winform_BarriosPaola_DominguezPedro_MachiMateo\Dominio\bin\Debug\Dominio.pdb
+C:\Users\MATEO\Desktop\Repositorio-GitHub-Prog3\TPWinForm_Equipo16\Tp_Winform_BarriosPaola_DominguezPedro_MachiMateo\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\MATEO\Desktop\Repositorio-GitHub-Prog3\TPWinForm_Equipo16\Tp_Winform_BarriosPaola_DominguezPedro_MachiMateo\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\MATEO\Desktop\Repositorio-GitHub-Prog3\TPWinForm_Equipo16\Tp_Winform_BarriosPaola_DominguezPedro_MachiMateo\Dominio\obj\Debug\Dominio.dll
+C:\Users\MATEO\Desktop\Repositorio-GitHub-Prog3\TPWinForm_Equipo16\Tp_Winform_BarriosPaola_DominguezPedro_MachiMateo\Dominio\obj\Debug\Dominio.pdb
